@@ -29,5 +29,3 @@ if (temp <= 32) {
     console.log('Go for it. It is pretty nice.')
 }
 
-
-
