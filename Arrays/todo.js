@@ -21,6 +21,22 @@ toDoList.shift()
 // console.log("Todo: "+toDoList[toDoList.length - 2])
 // console.log("Todo: "+toDoList[toDoList.length - 1])
 
+// toDoList.forEach(function(item,index){
+// console.log(index +".")
+// console.log(item)
+
+// })
+
+toDoList.forEach(function (todo,index) {
+    const num = index + 1
+    console.log(`${num},${todo}`)
+
+})
+
+
 
 
 console.log(toDoList)
+// 1. The first item 
+// 2. the second item 
+
