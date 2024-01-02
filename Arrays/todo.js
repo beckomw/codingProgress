@@ -7,11 +7,11 @@
 // Remove the first item from the list 
 
 
-const toDoList = ["Assemble Furniture","Finish Classwork","Clean up","Go to dollar tree","Pickup Christina"]
+const todos = ["Assemble Furniture","Finish Classwork","Clean up","Go to dollar tree","Pickup Christina"]
 
-toDoList.splice(2,2)
-toDoList.push("Clean Bathroom")
-toDoList.shift()
+todos.splice(2,2)
+todos.push("Clean Bathroom")
+todos.shift()
 
 // let howManyTodos = toDoList.length
 // console.log(howManyTodos)
@@ -27,7 +27,7 @@ toDoList.shift()
 
 // })
 
-toDoList.forEach(function (todo,index) {
+todos.forEach(function (todo,index) {
     const num = index + 1
     console.log(`${num},${todo}`)
 
@@ -36,11 +36,9 @@ toDoList.forEach(function (todo,index) {
 
 
 
-console.log(toDoList)
+console.log(todos)
 // 1. The first item 
 // 2. the second item 
-
-
 
 
 
