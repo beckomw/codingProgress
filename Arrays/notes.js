@@ -20,7 +20,7 @@ notes.forEach(function(item, index){
     console.log(item)
 })
 
-
+////////////
 console.log(notes.length)
 console.log(notes)
 
