@@ -12,8 +12,11 @@ My extensive background in recruiting has honed my interpersonal and project man
 
 To contact or know more about me please visit my linkedin page or my github portfolio.  [^1]
 
-[My Linkedin Page](https://www.linkedin.com/in/beckomw/)
-[Github Portfolio](https://beckomw.github.io/)
+- [My Linkedin Page](https://www.linkedin.com/in/beckomw/)
+- [Github Portfolio](https://beckomw.github.io/)
+
+
+
 
 
 
