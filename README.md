@@ -1,6 +1,8 @@
 ### Wayne Allen Beckom
 
 Dynamic and results-driven, I bring over 8 years of diverse experience in customer service, sales and recruitment with a strong focus on finance and tech. I'm currently pursuing a Bachelor's in Computer Information Systems with a Software Development emphasis. I'm attending Arapahoe Community College's 4 year plan via Colorado State University.
+
+
 ![](college.jpg)
 
 
